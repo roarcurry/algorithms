@@ -1,8 +1,8 @@
 /**
  * [1234. 替换子串得到平衡字符串](https://leetcode.cn/problems/replace-the-substring-for-balanced-string/)
+ * 知识点 [滑动窗口]
  * @param {string} s
  * @return {number}
- * 滑动窗口
  */
 var balancedString = function (s) {
     const map = { Q: 0, W: 0, E: 0, R: 0 };
