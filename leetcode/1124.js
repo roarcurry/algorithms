@@ -1,5 +1,6 @@
 /**
  * [1124. 表现良好的最长时间段](https://leetcode.cn/problems/longest-well-performing-interval/)
+ * 知识点 [前缀和]
  * @param {number[]} hours
  * @return {number}
  */
