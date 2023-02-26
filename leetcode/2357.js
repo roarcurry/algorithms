@@ -1,5 +1,5 @@
 /**
- * 2357. 使数组中所有元素都等于零 https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/
+ * [2357. 使数组中所有元素都等于零](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)
  * @param {number[]} nums
  * @return {number}
  */
