@@ -1,5 +1,5 @@
 /**
- * 1144. 递减元素使数组呈锯齿状 https://leetcode.cn/problems/decrease-elements-to-make-array-zigzag/
+ * [1144. 递减元素使数组呈锯齿状](https://leetcode.cn/problems/decrease-elements-to-make-array-zigzag/)
  * @param {number[]} nums
  * @return {number}
  */
