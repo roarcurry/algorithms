@@ -3,12 +3,16 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "scripts": {},
+    "scripts": {
+        "test": "vitest"
+    },
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "dependencies": {
-        "chai": "^4.3.7",
-        "mocha": "^10.2.0"
+    "devDependencies": {
+        "@types/node": "^24.0.14",
+        "typescript": "^5.8.3",
+        "unplugin-auto-import": "^19.3.0",
+        "vitest": "^3.2.4"
     }
 }
